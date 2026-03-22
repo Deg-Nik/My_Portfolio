@@ -12,7 +12,6 @@ import {
   Tag,
   CardLink,
 } from "./styles"
-import { link } from "fs"
 
 export default function Projects() {
   const projects = [

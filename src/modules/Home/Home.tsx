@@ -43,7 +43,7 @@ export default function Home() {
 
         <ButtonGroup>
           <SecondaryButton to={ROUTES.PROJECTS}>View Projects</SecondaryButton>
-          <SecondaryButton to="/portfolio/contact">Contact Me</SecondaryButton>
+          <SecondaryButton to={ROUTES.CONTACT}>Contact Me</SecondaryButton>
         </ButtonGroup>
 
         <Socials>
