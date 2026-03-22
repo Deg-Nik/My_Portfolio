@@ -8,10 +8,10 @@ import Contact from "modules/Contact/Contact"
 
 function App() {
   return (
-    <BrowserRouter basename="/portfolio/">
+    <BrowserRouter basename="/My_Portfolio/">
       <Routes>
         <Route  element={<Layout />}>
-          <Route path={ROUTES.HOME} element={<Home />} />
+          <Route index element={<Home />} />
           <Route path={ROUTES.PROJECTS} element={<Projects />} />
           <Route path={ROUTES.ABOUT} element={<About/>} />
           <Route path={ROUTES.CONTACT} element={<Contact/>} />

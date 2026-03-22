@@ -19,14 +19,14 @@ export default function Projects() {
       title: "Portfolio Website",
       description:
         "Modern animated portfolio built with React, TypeScript, Emotion and Framer Motion.",
-      image: "/portfolio/portfolio.png",
+      image: "/My_Portfolio/portfolio.png",
       tags: ["React", "TypeScript", "Emotion", "Framer Motion"],
     },
     {
       title: "Weather App",
       description:
         "A modern weather application featuring real‑time data, smart city search, geolocation support, and a clean animated interface.",
-      image: "/portfolio/weather.png",
+      image: "/My_Portfolio/weather.png",
       tags: ["React", "Node.js", "Express", "PostgreSQL"],
       link: "https://deg-nik.github.io/Weather_App/",
     },
@@ -34,7 +34,7 @@ export default function Projects() {
       title: "Web page",
       description:
         "A lightweight and responsive static web page featuring a clean layout, modern styling, and accessible content presentation. Designed to deliver information clearly on both desktop and mobile devices.",
-      image: "/portfolio/webpage.png",
+      image: "/My_Portfolio/webpage.png",
       tags: ["React", "Redux", "Spring Boot", "REST API"],
       link: "https://deg-nik.github.io/internet_site/",
     },

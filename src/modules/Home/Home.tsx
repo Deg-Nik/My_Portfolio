@@ -23,7 +23,7 @@ export default function Home() {
     >
       <HomeWrapper>
         <AvatarWrapper>
-          <Avatar src="/portfolio/avatar.jpg" alt="Nikolai" />
+          <Avatar src="/My_Portfolio/avatar.jpg" alt="Nikolai" />
         </AvatarWrapper>
 
         <Title>Hi, I'm Nikolai</Title>

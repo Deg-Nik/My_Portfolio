@@ -6,7 +6,7 @@ import packageJson from "./package.json"
 export default defineConfig({
   plugins: [react()],
 
-  base: "/portfolio/",
+  base: "/My_Portfolio/",
 
   resolve: {
     alias: {
