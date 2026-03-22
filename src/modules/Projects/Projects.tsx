@@ -36,7 +36,7 @@ export default function Projects() {
         "A lightweight and responsive static web page featuring a clean layout, modern styling, and accessible content presentation. Designed to deliver information clearly on both desktop and mobile devices.",
       image: "/My_Portfolio/webpage.png",
       tags: ["React", "Redux", "Spring Boot", "REST API"],
-      link: "https://deg-nik.github.io/internet_site/",
+      link: "https://deg-nik.github.io/Web_pages",
     },
   ]
 
