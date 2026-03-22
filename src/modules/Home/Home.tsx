@@ -34,7 +34,7 @@ export default function Home() {
         <Description>
            I design and build complete web applications —
           from polished, animated interfaces to secure, scalable backend
-          systems. My expertise includes React, TypeScript, Redux, Emotion,
+          systems. My expertise includes Python, Java, JavaScript, React, TypeScript, Redux, Emotion,
           Spring Boot, PostgreSQL, and clean architecture patterns. I care about
           code quality, performance and developer experience. My goal is to
           create software that is elegant inside and out: visually refined,

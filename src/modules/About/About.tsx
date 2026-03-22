@@ -36,6 +36,9 @@ export default function About() {
         </TextBlock>
 
         <SkillsSection>
+          <SkillTag>Python</SkillTag>
+          <SkillTag>Java</SkillTag>
+          <SkillTag>JavaScript</SkillTag>
           <SkillTag>React</SkillTag>
           <SkillTag>TypeScript</SkillTag>
           <SkillTag>Emotion</SkillTag>
