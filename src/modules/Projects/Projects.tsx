@@ -28,7 +28,7 @@ export default function Projects() {
         "A modern weather application featuring real‑time data, smart city search, geolocation support, and a clean animated interface.",
       image: "/My_Portfolio/weather.png",
       tags: ["React", "Node.js", "Express", "PostgreSQL"],
-      link: "https://deg-nik.github.io/Weather_App/",
+      link: "https://deg-nik.github.io/Weather_App_Demo/",
     },
     {
       title: "Web page",
